@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/metagenerator/static/css/main.c459606d.css",
+    "main.js": "/metagenerator/static/js/main.5e2e1db4.js",
+    "index.html": "/metagenerator/index.html",
+    "main.c459606d.css.map": "/metagenerator/static/css/main.c459606d.css.map",
+    "main.5e2e1db4.js.map": "/metagenerator/static/js/main.5e2e1db4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c459606d.css",
+    "static/js/main.5e2e1db4.js"
+  ]
+}
