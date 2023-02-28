@@ -2,7 +2,7 @@
   "name": "24metagenerator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://donniecodesit.github.io/metagenerator",
+  "homepage": "https://donniecodesit.github.io/50dor-metagen",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
